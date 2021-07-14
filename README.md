@@ -7,7 +7,7 @@ This my boilerplate or starter template for building Web Application using Codei
 ### Feature
 
 - Query Helper
-- Templating Easy Use
+- Templating Easy To Use
 
 ### Installation and Configuration
 
