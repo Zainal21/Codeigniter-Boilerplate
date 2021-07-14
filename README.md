@@ -13,7 +13,7 @@ This my boilerplate or starter template for building Web Application using Codei
 
 If you are using command-line you can do the following:
 
-1. `git clone `
+1. `git clone https://github.com/Zainal21/Codeigniter-Boilerplate`
 2. `cd project folder and change config/database.php`
 3. `start your local server - php -S localhost:3000 or use Apache Web Server (XAMPP)`
 4. `Use the boilerplate to build application`
